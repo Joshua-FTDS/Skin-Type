@@ -1,0 +1,5 @@
+Dataset      : https://www.kaggle.com/datasets/shakyadissanayake/oily-dry-and-normal-skin-types-dataset?resource=download
+
+Model        : https://drive.google.com/drive/folders/1vDEUWah0RbFMe2jjBnqLZpME483Fuzqj?usp=sharing
+
+Deployment   : https://huggingface.co/spaces/Joshua-FTDS/GC7
